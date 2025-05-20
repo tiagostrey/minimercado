@@ -13,7 +13,10 @@ Para a FASE1 do projeto, temos:
 1. Criar a estrutura do site em **HTML**, sem uso de **CSS** ou **JavaScript**.
 2. Criar um **cabeçalho (header)** com:
    - Identificação do minimercado
-   - Links de navegação para: *Home*, *Produtos* e *Serviços*
+   - Links de navegação para:
+     - *Home*
+     - *Produtos*
+     - *Serviços*
 3. Criar o **corpo (body)** com os dois elementos principais:
    - **Produtos**:
      - Frutas e verduras (mínimo 2 produtos)
